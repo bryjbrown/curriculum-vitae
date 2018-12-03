@@ -17,12 +17,20 @@ Graduation date: December 2010
 
 # Experience
 
-## Developer
+## Repository Developer
 Florida State University Libraries' Department of Technology and Digital Scholarship  
 July 2014 - Present  
+- Assisted with content & infrastructure maintenance of the Florida State University Libraries website, [lib.fsu.edu](https://www.lib.fsu.edu/)
 - Worked as a member of the Florida Virtual Campus' development group to update, maintain and extend FL-Islandora (FLVC's customized implementation of Islandora).
 - Researched and engaged in digital humanities and digital scholarship activities
 - Migrated DigiNole, FSU's institutional repository, from Bepress Digital Commons to Islandora
+- Worked as a committer for the Islandora Foundation
+- Release Manager for Islandora 7.x-1.12 release
+- Chair of Islandora Insitutional Repository Interest Group
+- Published several Islandora modules, including:
+  - [Islandora Usage Stats Callbacks](https://github.com/Islandora-Labs/islandora_usage_stats_callbacks)
+  - [Islandora Comparative Edition Solution Pack](https://github.com/fsulib/islandora_solution_pack_comparative_edition)
+  - [Islandora Managed Access](https://github.com/fsulib/islandora_managed_access)
 
 ## Graduate Assistantship
 Indiana University Libraries' Digital Collections Services, Bloomington, IN  
@@ -115,6 +123,11 @@ May 2005 – June 2006
 - Periodic shelf reading of assigned section
 
 # Presentations
+
+## Scholar & Beyond: Using Islandora as an Institutional Repository
+Islandora Conference 2017
+LIUNA Station, Hamilton, ON. May 18, 2017
+https://doi.org/10.6084/m9.figshare.7413533
 
 ## Discovering DH: Markdown & GitHub!
 FSU Libraries' 2016 Discover DH Series.  
