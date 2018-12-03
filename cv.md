@@ -124,9 +124,9 @@ May 2005 – June 2006
 
 # Presentations
 
-## Scholar & Beyond: Using Islandora as an Institutional Repository
-Islandora Conference 2017
-LIUNA Station, Hamilton, ON. May 18, 2017
+## Scholar & Beyond: Using Islandora as an Institutional Repository   
+Islandora Conference 2017    
+LIUNA Station, Hamilton, ON. May 18, 2017     
 https://doi.org/10.6084/m9.figshare.7413533
 
 ## Discovering DH: Markdown & GitHub!
