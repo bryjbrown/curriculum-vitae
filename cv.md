@@ -125,7 +125,7 @@ May 2005 – June 2006
 # Presentations
 
 ## DigiNole: FSU's Islandora Repository
-Lyrasis Webinar. October 18, 2017
+Lyrasis Webinar. October 18, 2017    
 https://doi.org/10.6084/m9.figshare.12089493
 
 ## Scholar & Beyond: Using Islandora as an Institutional Repository   
@@ -135,7 +135,7 @@ https://doi.org/10.6084/m9.figshare.7413533
 
 ## Blade Runner (a dh project)
 Islandora Conference 2017
-LIUNA Station, Hamilton, ON. May 17, 2017
+LIUNA Station, Hamilton, ON. May 17, 2017      
 https://doi.org/10.6084/m9.figshare.12089478
 
 ## Discovering DH: Markdown & GitHub!
