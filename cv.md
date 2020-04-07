@@ -125,8 +125,8 @@ May 2005 – June 2006
 # Presentations
 
 ## The Birth of LDbase
-Southern Mississippi Institutional Repository Conference 2020
-University of Southern Mississippi, Hattiesburg, MS. April 24, 2020.
+Southern Mississippi Institutional Repository Conference 2020    
+University of Southern Mississippi, Hattiesburg, MS. April 24, 2020.      
 https://doi.org/10.6084/m9.figshare.12091446
 
 ## DigiNole: FSU's Islandora Repository
