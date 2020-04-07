@@ -130,6 +130,7 @@ University of Southern Mississippi, Hattiesburg, MS. April 24, 2020.
 https://doi.org/10.6084/m9.figshare.12091446
 
 ## DigiNole: FSU's Islandora Repository
+Co-presented with Devin Soper.
 Lyrasis Webinar. October 18, 2017    
 https://doi.org/10.6084/m9.figshare.12089493
 
@@ -139,6 +140,7 @@ LIUNA Station, Hamilton, ON. May 18, 2017
 https://doi.org/10.6084/m9.figshare.7413533
 
 ## Blade Runner (a dh project)
+Co-presented with Favenzio Calvo and Jean Phillips.
 Islandora Conference 2017
 LIUNA Station, Hamilton, ON. May 17, 2017      
 https://doi.org/10.6084/m9.figshare.12089478
