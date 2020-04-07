@@ -183,12 +183,12 @@ Indiana University, Bloomington, IN. December 11, 2013.
 http://hdl.handle.net/2022/17300
 
 ## Digital Collections Made Easy: Exploring the Omeka Platform
-Indiana Online Users Group Fall Conference 2013.   
+Indiana Online Library Users Group Fall Conference 2013.   
 Indiana Wesleyan University, Indianapolis, IN. November 1, 2013.   
 https://doi.org/10.6084/m9.figshare.4816780
 
 ## DIY Web Development: Free Tools for Library Instruction
-Indiana Online Users Group Spring Conference 2013.  
+Indiana Online Library Users Group Spring Conference 2013.  
 Indiana Wesleyan University, Indianapolis, IN. May 3, 2013.  
 Presentation slides: https://doi.org/10.6084/m9.figshare.4816786  
 Workshop slides: https://doi.org/10.6084/m9.figshare.4816789
