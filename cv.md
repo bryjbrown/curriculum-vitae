@@ -22,9 +22,8 @@ Florida State University Libraries' Department of Technology and Digital Scholar
 July 2014 - Present  
 - Assisted with content & infrastructure maintenance of the Florida State University Libraries website, [lib.fsu.edu](https://www.lib.fsu.edu/)
 - Worked as a member of the Florida Virtual Campus' development group to update, maintain and extend FL-Islandora (FLVC's customized implementation of Islandora).
-- Researched and engaged in digital humanities and digital scholarship activities
 - Migrated DigiNole, FSU's institutional repository, from Bepress Digital Commons to Islandora
-- Worked as a committer for the Islandora Foundation
+- Performed committer duties for the Islandora Foundation
 - Release Manager for Islandora 7.x-1.12 release
 - Chair of Islandora Insitutional Repository Interest Group
 - Published several Islandora modules, including:
