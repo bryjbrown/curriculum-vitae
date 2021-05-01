@@ -23,6 +23,8 @@ July 2014 - Present
 - Assisted with content & infrastructure maintenance of the Florida State University Libraries website, [lib.fsu.edu](https://www.lib.fsu.edu/)
 - Worked as a member of the Florida Virtual Campus' development group to update, maintain and extend FL-Islandora (FLVC's customized implementation of Islandora).
 - Migrated DigiNole, FSU's institutional repository, from Bepress Digital Commons to Islandora
+- Migrated Diginole, now FSU's combined institutional repository and digital library containing ~35TB of data, to Amazon Web Services and Docker
+- Designed, created and deployed [LDbase](https://ldbase.org/), an [NIH](https://www.nih.gov/) funded discipline-specific data repository for learning disabilities testing datasets
 - Performed committer duties for the Islandora Foundation
 - Release Manager for Islandora 7.x-1.12 release
 - Chair of Islandora Insitutional Repository Interest Group
@@ -30,6 +32,10 @@ July 2014 - Present
   - [Islandora Usage Stats Callbacks](https://github.com/Islandora-Labs/islandora_usage_stats_callbacks)
   - [Islandora Comparative Edition Solution Pack](https://github.com/fsulib/islandora_solution_pack_comparative_edition)
   - [Islandora Managed Access](https://github.com/fsulib/islandora_managed_access)
+- Published several Drupal modules, including:
+  - [Transclude Token](https://github.com/bryjbrown/transclude_token)
+  - [Tombstones](https://github.com/fsulib/tombstones)
+  - [Embargoes](https://github.com/fsulib/embargoes)
 
 ## Graduate Assistantship
 Indiana University Libraries' Digital Collections Services, Bloomington, IN  
