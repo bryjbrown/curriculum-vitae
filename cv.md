@@ -42,6 +42,7 @@ Indiana University Libraries' Digital Collections Services, Bloomington, IN
 January 2014 - July 2014  
 - Transformed large set of legacy citation metadata from SGML to MODS for use with Zotero using XSLT Python scripts
 - Managed the addition of new PURL links into EAD finding aid components
+- Developed the [interactive map portion](https://globalamerica.indiana.edu/worldmap/index.html) of the ["Globalization of the United States 1789 - 1861"](https://globalamerica.indiana.edu/) digital history project
 - Assisted with implementation and documentation for new MySQL/Omeka CMS instances
 - Continued with Solr projects from Metadata Internship (see below)
 
