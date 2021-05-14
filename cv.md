@@ -123,7 +123,7 @@ Graduation date: December 2010
 - Shelved books
 - Periodic shelf reading of assigned section
 
-**Bookshelver** 
+**Bookshelver**   
 *Evansville Vanderburgh Public Library System – Red Bank Branch*      
 *May 2005 – June 2006*   
 - Assisted patrons in checking out library materials
