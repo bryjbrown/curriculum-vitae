@@ -26,13 +26,19 @@ Graduation date: December 2010
 **Repository Developer**  
 *Florida State University Libraries' Department of Technology and Digital Scholarship*  
 *July 2014 - Present*  
-- Assisted with content & infrastructure maintenance of the Florida State University Libraries website, [lib.fsu.edu](https://www.lib.fsu.edu/)
-- Worked as a member of the Florida Virtual Campus' development group to update, maintain and extend FL-Islandora (FLVC's customized implementation of Islandora).
-- Migrated DigiNole, FSU's institutional repository, from Bepress Digital Commons to Islandora
-- Migrated Diginole, now FSU's combined institutional repository and digital library containing ~35TB of data, to Amazon Web Services and Docker
-- Designed, created and deployed [LDbase](https://ldbase.org/), an [NIH](https://www.nih.gov/) funded discipline-specific data repository for learning disabilities testing datasets
+- Promoted from Assistant Librarian to Associate Librarian in 10/2020
+- Assisted with maintenance of the Florida State University Libraries website, [lib.fsu.edu](https://www.lib.fsu.edu/)
+- Provided backup support for critical web services
+- Worked as a member of the statewide consortium Florida Virtual Campus (FLVC) development group to update, maintain and extend FL-Islandora (FLVC's customized implementation of Islandora)
+- Led migration of DigiNole, FSU's institutional repository, from Bepress Digital Commons to Islandora (~10,000 scholarly objects including student theses and faculty publications)
+- Led another migration of Diginole, now FSU's combined institutional repository and digital library containing to Amazon Web Services (~50TB of data moved, filtered and reindexed)
+  - Developed an [external system for asynchronous ingestion of packages](https://github.com/fsulib/diginole_async_ingest) from Amazon Web Services S3 buckets.
+  - Developed module to automatically mint PURLs for newly ingested objects via external PURLZ server, and insert newly minted PURL into object metadata
+- Led migration of ["The William S. Burroughs Archive"](https://diginole.lib.fsu.edu/islandora/object/fsu%3Aburroughs_archive) and the content and functionality of the ["Blade Runner (a movie)"](https://diginole.lib.fsu.edu/islandora/object/fsu%3A605344) genetic edition from a custom built legacy system to a scalable Islandora 7.x Solution Pack ([Islandora Comparative Editions Solution Pack](https://github.com/fsulib/islandora_solution_pack_comparative_edition))
+  - Also developed additional custom access restriction functionality in order to satisfy the legal requirements of the William S. Burroughs Estate. ([Islandora Managed Access](https://github.com/fsulib/islandora_managed_access))
+- Led the design, development and deployment of [LDbase](https://ldbase.org/), an NIH grant-funded discipline-specific data repository for learning disabilities testing datasets
 - Performed committer duties for the Islandora Foundation
-- Release Manager for Islandora 7.x-1.12 release
+  - Release Manager for Islandora 7.x-1.12 release
 - Chair of Islandora Insitutional Repository Interest Group
 - Published several Islandora modules, including:
   - [Islandora Usage Stats Callbacks](https://github.com/Islandora-Labs/islandora_usage_stats_callbacks)
@@ -46,10 +52,10 @@ Graduation date: December 2010
 **Graduate Assistantship**  
 *Indiana University Libraries' Digital Collections Services, Bloomington, IN*  
 *January 2014 - July 2014*  
-- Transformed large set of legacy citation metadata from SGML to MODS for use with Zotero using XSLT Python scripts
+- Transformed ~800 legacy citation metadata records from SGML to MODS for use with Zotero using XSLT & Python scripts for the [Victorian Studies Bibliography project](http://www.letrs.indiana.edu/web/v/victbib/)
 - Managed the addition of new PURL links into EAD finding aid components
-- Developed the [interactive map portion](https://globalamerica.indiana.edu/worldmap/index.html) of the ["Globalization of the United States 1789 - 1861"](https://globalamerica.indiana.edu/) digital history project
-- Assisted with implementation and documentation for new MySQL/Omeka CMS instances
+- Developed the [interactive map portion](https://globalamerica.indiana.edu/worldmap/index.html) of the ["Globalization of the United States 1789 - 1861"](https://globalamerica.indiana.edu/) digital history project & georectified historical map images for use in project
+- Assisted with implementation and documentation for new Omeka instances, including scripted database provisioning
 - Continued with Solr projects from Metadata Internship (see below)
 
 **Metadata Intern**   
@@ -57,7 +63,7 @@ Graduation date: December 2010
 *September 2013 - December 2013*  
 - Reviewed tentative EAD3 beta schema and analyzed potential conflicts with existing in- house systems as part of the IU Libraries’ EAD3 Revision Group
 - Explored ways to harvest aggregated MODS and MARCXML using OAI-PMH and Z39.50
-- Performed setup, configuration and administration of Solr instances on a Linux systems
+- Performed setup, configuration and administration of Solr instances on Linux systems to test the viability and performance of various project-specific indexing schemas
 
 **TEI Encoder (Board of Trustees Project)**   
 *Indiana University Libraries' University Archives, Bloomington, IN*   
@@ -68,17 +74,16 @@ Graduation date: December 2010
 **Web Development Assistant**   
 *Indiana University Libraries' Lilly Library, Bloomington, IN*   
 *May 2013 - July 2014*  
-- Managed Lilly Library website   
-  - Made requested edits to existing pages and digital exhibits on Red Hat Enterprise Linux server over SSH with vi
-  - Created/migrated new pages and digital exhibits in Lilly's Omeka installations
-  - Built search and data entry PHP web interfaces for special collections databases
-  - Administered Lilly's MySQL database
-  - Engineered migrations of special collections data from Microsoft Access to MySQL
-  - Solved various database connectivity issues with digital collections and exhibits
+- Managed Lilly Library website static HTML pages and digital exhibits
+- Migrated static HTML pages and digital exhibits into Omeka instances
+- Built custom search and data entry systems for special collections databases
+- Administered MySQL database
+  - Migrated special collections data from Microsoft Access to MySQL
+  - Fixed various database connectivity issues with digital collections and exhibits
   - Designed database schemas for new collections
 - Wrote extensive documentation for all projects for other team members to use
-- Migrated finding aids from MS Word docs to HTML and XML for display/storage
-- Updated and maintained the Lilly's WordPress blog
+- Migrated finding aids from Microsoft Word docs to EAD and HTML
+- Updated and maintained WordPress blog
 
 **Scanning Technician**   
 *Indiana University Libraries' Digital Collections Services, Bloomington, IN*   
