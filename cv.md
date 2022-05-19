@@ -141,16 +141,16 @@ Graduation date: December 2010
 
 ## Presentations
 
-**What Are We Missing? Using Tools to Review Your IR’s Accessibility**
-*Co-presented with David Rodriguez*
+**What Are We Missing? Using Tools to Review Your IR’s Accessibility**  
+*Co-presented with David Rodriguez*  
 *Southern Mississippi Institutional Repository Conference 2022*    
 *University of Southern Mississippi, Hattiesburg, MS. April 29, 2022*  
 https://doi.org/10.6084/m9.figshare.19690387.v1
 
-**Islandora as an IR**
-*Co-presented with Seth Shaw*
-*Islandora Online 2020*
-*August 11, 2020*
+**Islandora as an IR**  
+*Co-presented with Seth Shaw*  
+*Islandora Online 2020*  
+*August 11, 2020*  
 https://doi.org/10.6084/m9.figshare.12783959.v1
 
 **The Birth of LDbase**   
