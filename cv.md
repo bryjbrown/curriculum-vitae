@@ -141,6 +141,12 @@ Graduation date: December 2010
 
 ## Presentations
 
+**LDbase.org: Configuring and Extending Drupal to Serve as a Specialized Data Repository**  
+*Co-presented with Favenzio Calvo and Brian Arsenault*  
+*Open Repositories 2022*  
+*University of Colorado, Denver, CO. June 8, 2022*  
+https://doi.org/10.6084/m9.figshare.20061098.v1
+
 **What Are We Missing? Using Tools to Review Your IR’s Accessibility**  
 *Co-presented with David Rodriguez*  
 *Southern Mississippi Institutional Repository Conference 2022*    
