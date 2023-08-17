@@ -141,11 +141,11 @@ Graduation date: December 2010
 
 ## Presentations
 
-**Automated Speech Recognition: Tool Evaluation and Possible Workflows for Enhancing Accessibility of A/V Materials**
-*Co-presented with Dave Rodriguez and Ruben Aleman*
-*Society of Florida Archivists 2023 Annual Meeting*
-*Florida State University, Tallahassee, FL. May 12, 2023*
-https://doi.org/10.6084/m9.figshare.23979351.v1
+**Automated Speech Recognition: Tool Evaluation and Possible Workflows for Enhancing Accessibility of A/V Materials**  
+*Co-presented with Dave Rodriguez and Ruben Aleman*  
+*Society of Florida Archivists 2023 Annual Meeting*  
+*Florida State University, Tallahassee, FL. May 12, 2023*  
+https://doi.org/10.6084/m9.figshare.23979351.v1  
 
 **LDbase.org: Configuring and Extending Drupal to Serve as a Specialized Data Repository**  
 *Co-presented with Favenzio Calvo and Brian Arsenault*  
