@@ -1,8 +1,7 @@
 # Bryan Brown
-[bryjbrown@gmail.com](mailto:bryjbrown@gmail.com)   
-(812) 584-9021  
-3205 Tremont Rd  
-Evansville, IN 47710  
+[bryjbrown@gmail.com](mailto:bryjbrown@gmail.com) 
+[bjbrown@fsu.edu](mailto:bjbrown@fsu.edu)
+https://orcid.org/0000-0003-4237-9883  
 
 ## Education
 
