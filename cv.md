@@ -144,7 +144,7 @@ Graduation date: December 2010
 *Co-presented with Brian Arsenault and Mason RK Hall*  
 *Florida Association of College and Research Libraries 2023*  
 *Online. October 20, 2023*  
-https://doi.org/10.6084/m9.figshare.24412423.v1 
+https://doi.org/10.6084/m9.figshare.24412423.v2
 
 **Automated Speech Recognition: Tool Evaluation and Possible Workflows for Enhancing Accessibility of A/V Materials**  
 *Co-presented with Dave Rodriguez and Ruben Aleman*  
