@@ -138,7 +138,26 @@ Graduation date: December 2010
 - Shelved books
 - Periodic shelf reading of assigned section
 
+## Publications
+
+**Comparative analysis of automated speech recognition technologies for enhanced audiovisual accessibility**  
+*Co-authored with Dave Rodriguez*  
+*Issue 58, 2023-12-04 of Code4Lib*  
+https://journal.code4lib.org/articles/17820  
+
+**What Are We Missing? Automated Accessibility Audits for Institutional Repositories**  
+*Co-authored with Dave Rodriguez*  
+*Chapter 16 of* **Rethinking Institutional Repositories: Innovations in Management, Collections, and Inclusion**  
+*Published 2023 by the Association of College and Research Libraries*  
+https://www.ala.org/acrl/sites/ala.org.acrl/files/content/publications/booksanddigitalresources/digital/9798892555906_OA.pdf  
+
 ## Presentations
+
+**Journey to the Third Dimension: Extending IRs to Support 3D Model Data**   
+*Co-presented with Dave Rodriguez*  
+*Northeast Institutional Repository Day 2023*  
+*Online. November 30, 2023*  
+https://doi.org/10.6084/m9.figshare.24768951.v1  
 
 **LDbase: Collaborating Across Disciplines to Support Open Science**  
 *Co-presented with Brian Arsenault and Mason RK Hall*  
