@@ -41,8 +41,9 @@ Graduation date: December 2010
 - Chair of Islandora Insitutional Repository Interest Group
 - Published several Islandora modules, including:
   - [Islandora Usage Stats Callbacks](https://github.com/Islandora-Labs/islandora_usage_stats_callbacks)
-  - [Islandora Comparative Edition Solution Pack](https://github.com/fsulib/islandora_solution_pack_comparative_edition)
   - [Islandora Managed Access](https://github.com/fsulib/islandora_managed_access)
+  - [Islandora Comparative Edition Solution Pack](https://github.com/fsulib/islandora_solution_pack_comparative_edition)
+  - [Islandora 3D Model Solution Pack](https://github.com/fsulib/islandora_solution_pack_3dmodel)
 - Published several Drupal modules, including:
   - [Transclude Token](https://github.com/bryjbrown/transclude_token)
   - [Tombstones](https://github.com/fsulib/tombstones)
@@ -152,6 +153,12 @@ https://journal.code4lib.org/articles/17820
 https://www.ala.org/acrl/sites/ala.org.acrl/files/content/publications/booksanddigitalresources/digital/9798892555906_OA.pdf  
 
 ## Presentations
+
+**Lowering the Barrier to Entry for ​Digital Repository Management by Leveraging Cloud-Native Solutions​**   
+*Co-presented with Favenzio Calvo*  
+*Open Repositories 2024*  
+*Clarion Hotel Post, Göteborg, Sweden. June 4, 2024*  
+https://doi.org/10.6084/m9.figshare.26103037.v1
 
 **Journey to the Third Dimension: Extending IRs to Support 3D Model Data**   
 *Co-presented with Dave Rodriguez*  
