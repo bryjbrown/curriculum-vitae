@@ -139,6 +139,11 @@ Graduation date: December 2010
 - Shelved books
 - Periodic shelf reading of assigned section
 
+## Awards
+
+**2024 Fred L. Standley Award**    
+*The Fred L. Standley Award honors an outstanding faculty member within the University Libraries at the Florida State University for significant contributions to campus, state, national and/or international research librarianship and library development.  It is named for Fred L. Standley, FSU Daisy Parker Flory Professor of English and for all of his long career in the English Department and the Faculty Senate as well as a strong advocate for Florida State University Libraries.*
+
 ## Publications
 
 **Comparative analysis of automated speech recognition technologies for enhanced audiovisual accessibility**  
