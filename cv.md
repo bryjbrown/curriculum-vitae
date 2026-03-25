@@ -159,6 +159,11 @@ https://www.ala.org/acrl/sites/ala.org.acrl/files/content/publications/booksandd
 
 ## Presentations
 
+**ADA Title II for Cultural Heritage Websites**
+*Sunshine State Digital Network (SSDN)*
+*Online. March 24, 2026*
+https://doi.org/10.6084/m9.figshare.31847953
+
 **Lowering the Barrier to Entry for ​Digital Repository Management by Leveraging Cloud-Native Solutions​**   
 *Co-presented with Favenzio Calvo*  
 *Open Repositories 2024*  
